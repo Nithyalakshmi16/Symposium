@@ -1,0 +1,259 @@
+ .topic{
+     background-color: #5CCFB4 ;
+     width: 1450px;
+     height: 70px;
+     left: 0px;
+     right: 0px;
+     top: 0px;
+    text-align: center;
+    padding: 28px;
+  }
+  .bor{
+       background-color: #129E87;
+       position: absolute;
+       width: 1499px;
+       height: 50px;
+       left: 8.5px;
+       right: 0px;
+       top: 44px;
+       padding-left: 5px;
+       padding-bottom: 5px;
+  }
+  .reg {
+    background-color:#056B5A;
+    border: none;
+    color: black;
+    font-size: 16px;
+    position: absolute;
+    margin-bottom: 50px;
+    left: 70%;
+    bottom: -590px;
+    padding: 10px 24px;
+    margin: 4px 2px;
+    border-radius: 25px;
+    height: 30px;
+    width: 158.25px;
+  }
+ .hom{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left: 5%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+}
+ .bac{
+   background-color: #056B5A;
+   border: none;
+   color:black;
+   font-size: 16px;
+   position: absolute;
+   margin-bottom: 55px;
+   width: 158.25px;
+   height: 30px;
+   border-radius: 25px;
+   bottom: 10px;
+   left: 74%;
+ }
+ .qui{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left: 18%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+ }
+.work{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left:44%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+}
+.tech{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left: 32%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+}
+.nontech{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left: 58%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+}
+.abo{
+  background-color: #056B5A;
+  border: none;
+  font-size: 16px;
+  position: absolute;
+  top: 11%;
+  left: 72%;
+  height: 30px;
+  width: 158.25px;
+  border-radius: 25px;
+}
+.abo:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.qui:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.bor:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.reg:hover {
+  box-shadow: 0 12px 16px 0 #056B5A, 0 17px 50px 0#056B5A;
+}
+.hom:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.qui:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.bac:hover {
+  box-shadow: 0 12px 16px 0 #056B5A, 0 17px 50px 0#056B5A;
+}
+.work:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.tech:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.nontech:hover {
+  box-shadow: 0 12px 16px 0 #5CCFB4, 0 17px 50px 0#5CCFB4;
+}
+.wlogo{
+ position: absolute;
+width: 350px;
+height: 250px;
+left:25%;
+top: 25%;
+}
+.square1{
+  position: absolute;
+width: 340px;
+height: 340px;
+left: 675.13px;
+top: 50%; 
+background-color: #129E87;
+}
+.hh{
+position: absolute;
+width: 240.2px;
+height: 46.17px;
+left:50%;
+top: 50%;
+font-family: 'Kameron';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+.pp{
+  word-break : break-right;
+  position: absolute;
+width: 253.45px;
+height: 200pxpx;
+left: 723.18px;
+top: 57%;
+font-family: 'Kameron';
+font-style: normal;
+font-weight: 350px;
+font-size: 20px;
+line-height: 38px;
+text-align: center;
+}
+
+.tb{
+  position: absolute;
+width: 1503px;
+height: 90px;
+left: 9px;
+top:2550px; 
+background-color: #129E87;
+}
+.page{
+left: 50px;
+text-align: center;
+padding: 28px;
+position: absolute;
+width: 240.2px;
+height: 46.17px;
+left:20%;
+top: 100%;
+font-family: 'Kameron';
+font-size: 35px; 
+width: 240.2px;
+height: 46.17px;
+}
+.secondsquare{
+  position: absolute;
+  width: 340px;
+  height: 500px;
+  left: 675.13px;
+  top: 115%; 
+  background-color: #129E87;
+}
+.rules{
+  position: absolute;
+left:675.13px;
+top: 115%;
+font-family: 'Old-style serif';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 43px;
+color: #000000;
+
+}
+.spara{
+  word-break : break-right;
+  position: absolute;
+width: 253.45px;
+height: 200pxpx;
+font-family: 'Old-style serif';
+font-style: normal;
+font-weight: 350px;
+font-size: 20px;
+line-height: 38px;
+text-align: center;
+left: 46%;
+top:135%;
+}
+.sreg{
+  background-color:#056B5A;
+    border: none;
+    color: black;
+    font-size: 16px;
+    position: absolute;
+    margin-bottom: 50px;
+    left: 72%;
+    bottom: -1150px;
+    padding: 10px 24px;
+    margin: 4px 2px;
+    border-radius: 25px;
+    height: 30px;
+    width: 158.25px;
+}
